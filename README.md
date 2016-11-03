@@ -1,6 +1,6 @@
-<a href="telegram.me/cristal_joker"><h1>CleverGuy</h1></a>
+<a href="telegram.me/cristal_joker"><h1>cristal_joker</h1></a>
 <h2>payam resan umbrella team :D</h2><br><br><br>
-<h1><mark>نصب ربات</mark></h1>
+<h1><mark></mark></h1>
 <pre>
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
 
