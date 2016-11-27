@@ -1,9 +1,9 @@
-bot_token = "245451534:AAEgrx-zGY_wRWkR0qYHi2xjSNL-qEjMZFU"
+bot_token = ":243438478:AAF9_m3CpeslTVnl8amvW4l5Cf5iODGhTsc"
 send_api = "https://api.telegram.org/bot"..bot_token
-bot_version = "6.0"
-sudo_name = "Engineer Mr Joker"
+bot_version = "2"
+sudo_name = "Engineer #MrJoker βĐ Зг™"
 sudo_id = 259300954
-admingp = -135847900
-sudo_num = "989351372038"
-sudo_user = "TeleJooker1"
+admingp = -178662351
+sudo_num = "+14029090359"
+sudo_user = "Mrjooker"
 sudo_ch = "TeleJooker"
